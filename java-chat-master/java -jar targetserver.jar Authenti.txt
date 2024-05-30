@@ -1,0 +1,2 @@
+java -jar target/server.jar Authentication.txt 4444
+java -jar target/client.jar localhost 4444
